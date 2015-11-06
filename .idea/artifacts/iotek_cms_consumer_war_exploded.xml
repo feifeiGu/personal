@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="iotek-cms-consumer:war exploded">
+    <output-path>$PROJECT_DIR$/../iotek-parent-application/iotek-cms-consumer/target/cms-consumer</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="iotek-cms-consumer" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../iotek-parent-application/iotek-cms-consumer/target/cms-consumer/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="iotek-cms-consumer/web/Web" />
+    </root>
+  </artifact>
+</component>

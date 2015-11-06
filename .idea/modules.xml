@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubboInterface/dubboInterface.iml" filepath="$PROJECT_DIR$/dubboInterface/dubboInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" filepath="$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboprovider/dubboprovider.iml" filepath="$PROJECT_DIR$/dubboprovider/dubboprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-parent-application/iotek-cms-consumer/iotek-cms-consumer.iml" filepath="$PROJECT_DIR$/../iotek-parent-application/iotek-cms-consumer/iotek-cms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-parent-application/iotek-cms-interface/iotek-cms-interface.iml" filepath="$PROJECT_DIR$/../iotek-parent-application/iotek-cms-interface/iotek-cms-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-parent-application/iotek-cms-provider/iotek-cms-provider.iml" filepath="$PROJECT_DIR$/../iotek-parent-application/iotek-cms-provider/iotek-cms-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-parent-application/iotek-common/iotek-common.iml" filepath="$PROJECT_DIR$/../iotek-parent-application/iotek-common/iotek-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-common/iotek-online-edu-common.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-common/iotek-online-edu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-ide/iotek-online-edu-ide.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-ide/iotek-online-edu-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-model/iotek-online-edu-model.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-model/iotek-online-edu-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-persist/iotek-online-edu-persist.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-persist/iotek-online-edu-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-service/iotek-online-edu-service.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-service/iotek-online-edu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-service-common/iotek-online-edu-service-common.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-service-common/iotek-online-edu-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-android/iotek-online-edu-web-android.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-android/iotek-online-edu-web-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-cms/iotek-online-edu-web-cms.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-cms/iotek-online-edu-web-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-common/iotek-online-edu-web-common.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-common/iotek-online-edu-web-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-community/iotek-online-edu-web-community.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-community/iotek-online-edu-web-community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition/iotek-online-edu-web-competition.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition/iotek-online-edu-web-competition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition-manage/iotek-online-edu-web-competition-manage.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition-manage/iotek-online-edu-web-competition-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-forward-portal/iotek-online-edu-web-forward-portal.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-forward-portal/iotek-online-edu-web-forward-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-ide/iotek-online-edu-web-ide.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-ide/iotek-online-edu-web-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-listener/iotek-online-edu-web-listener.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-listener/iotek-online-edu-web-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage/iotek-online-edu-web-manage.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage/iotek-online-edu-web-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage-channel/iotek-online-edu-web-manage-channel.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage-channel/iotek-online-edu-web-manage-channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-portal/iotek-online-edu-web-portal.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-portal/iotek-online-edu-web-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-university/iotek-online-edu-web-university.iml" filepath="$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-university/iotek-online-edu-web-university.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iotek-parent-application/iotek-parent-framework.iml" filepath="$PROJECT_DIR$/../iotek-parent-application/iotek-parent-framework.iml" />
+    </modules>
+  </component>
+</project>

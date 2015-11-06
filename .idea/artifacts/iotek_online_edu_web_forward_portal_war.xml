@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iotek-online-edu-web-forward-portal:war">
+    <output-path>$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-forward-portal/target</output-path>
+    <root id="archive" name="ROOT.war">
+      <element id="artifact" artifact-name="iotek-online-edu-web-forward-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

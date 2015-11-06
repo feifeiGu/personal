@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubboconsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/dubboprovider" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-android" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-cms" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-community" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-competition-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-forward-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-ide" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-listener" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-manage-channel" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-university" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-parent-application/iotek-cms-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/../iotek-parent-application/iotek-cms-provider" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dubboprovider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../iotek-online-edu/pom.xml" />
+        <option value="$PROJECT_DIR$/../iotek-parent-application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

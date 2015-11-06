@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iotek-online-edu-web-android:war">
+    <output-path>$PROJECT_DIR$/../iotek-online-edu/iotek-online-edu-web-android/target</output-path>
+    <root id="archive" name="android.war">
+      <element id="artifact" artifact-name="iotek-online-edu-web-android:war exploded" />
+    </root>
+  </artifact>
+</component>

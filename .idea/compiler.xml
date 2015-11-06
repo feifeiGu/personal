@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dubboconsumer" />
+        <module name="dubboInterface" />
+        <module name="dubboprovider" />
+        <module name="iotek-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-ide" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-ide" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-persist" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-persist" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-service" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-service-common" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-service-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-common" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-portal" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-portal" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-community" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-community" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-manage" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-manage" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-ide" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-ide" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-listener" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-listener" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-cms" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-cms" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-university" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-university" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-manage-channel" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-manage-channel" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-competition" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-competition" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-competition-manage" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-competition-manage" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-forward-portal" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-forward-portal" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-web-android" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-web-android" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-common" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-online-edu-model" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-online-edu-model" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-cms-interface" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-cms-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-cms-provider" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-cms-provider" />
+      </profile>
+      <profile default="false" name="Annotation profile for iotek-cms-consumer" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-cms-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboconsumer" target="1.5" />
+      <module name="dubboInterface" target="1.5" />
+      <module name="dubboprovider" target="1.5" />
+      <module name="iotek-cms-consumer" target="1.6" />
+      <module name="iotek-cms-interface" target="1.6" />
+      <module name="iotek-cms-provider" target="1.6" />
+      <module name="iotek-common" target="1.5" />
+      <module name="iotek-online-edu" target="1.6" />
+      <module name="iotek-online-edu-common" target="1.6" />
+      <module name="iotek-online-edu-ide" target="1.6" />
+      <module name="iotek-online-edu-model" target="1.6" />
+      <module name="iotek-online-edu-persist" target="1.6" />
+      <module name="iotek-online-edu-service" target="1.6" />
+      <module name="iotek-online-edu-service-common" target="1.6" />
+      <module name="iotek-online-edu-web-android" target="1.6" />
+      <module name="iotek-online-edu-web-cms" target="1.6" />
+      <module name="iotek-online-edu-web-common" target="1.6" />
+      <module name="iotek-online-edu-web-community" target="1.6" />
+      <module name="iotek-online-edu-web-competition" target="1.6" />
+      <module name="iotek-online-edu-web-competition-manage" target="1.6" />
+      <module name="iotek-online-edu-web-forward-portal" target="1.6" />
+      <module name="iotek-online-edu-web-ide" target="1.6" />
+      <module name="iotek-online-edu-web-listener" target="1.6" />
+      <module name="iotek-online-edu-web-manage" target="1.6" />
+      <module name="iotek-online-edu-web-manage-channel" target="1.6" />
+      <module name="iotek-online-edu-web-portal" target="1.6" />
+      <module name="iotek-online-edu-web-university" target="1.6" />
+      <module name="iotek-parent-framework" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

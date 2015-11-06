@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iotek-cms-provider:war">
+    <output-path>$PROJECT_DIR$/../iotek-parent-application/iotek-cms-provider/target</output-path>
+    <root id="archive" name="cms-provider.war">
+      <element id="artifact" artifact-name="iotek-cms-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

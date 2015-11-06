@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [04/Nov/2015:20:58:08 +0800] "GET /consumer/test HTTP/1.1" 200 224 http-bio-8080-exec-1 736
+0:0:0:0:0:0:0:1 - - [04/Nov/2015:20:58:08 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [04/Nov/2015:20:58:08 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [04/Nov/2015:20:58:12 +0800] "POST /consumer/testDemo HTTP/1.1" 200 84 http-bio-8080-exec-4 338
+0:0:0:0:0:0:0:1 - - [04/Nov/2015:20:58:16 +0800] "POST /consumer/testDemo HTTP/1.1" 200 83 http-bio-8080-exec-5 5
